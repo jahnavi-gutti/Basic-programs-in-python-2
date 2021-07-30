@@ -1,4 +1,4 @@
-# Basic-python-programs-in-python-2
+# Basic-programs-in-python-2
 reading string</br>
 reverse a string</br>
 palindrome string</br>
