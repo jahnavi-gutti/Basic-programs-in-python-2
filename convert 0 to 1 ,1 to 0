@@ -1,0 +1,6 @@
+n=input()
+l=[str(int(x)^1) for x in n ]
+print("".join(l))
+"""o/p
+1010010011
+0101101100"""
